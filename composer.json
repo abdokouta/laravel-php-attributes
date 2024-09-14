@@ -49,7 +49,7 @@
         "TWithers\\LaravelAttributes\\AttributesServiceProvider"
       ],
       "aliases": {
-        "Attributes": "AttributeAccessor"
+        "Module": "TWithers\\LaravelAttributes\\Facades\\Attributes"
       }
     }
   },
